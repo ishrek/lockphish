@@ -28,3 +28,5 @@ bash lockphish.sh
 This is a great phishing tool which you use in your android system al well as pc.
 Just install **Termux** and follow the usage command.
 
+Refer
+https://www.infosecinstitute.com/resources/phishing/lockphish-phishing-attack-capturing-android-pins-iphone-passcodes-over-https/
